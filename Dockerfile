@@ -1,11 +1,12 @@
 FROM docker:stable
 
 # install docker-compose
-RUN apk add \
+RUN apk add -U \
         gcc \
         libc-dev \
         libffi-dev \
         make \
+        openssl \
         openssl-dev \
         py-pip \
         python-dev \

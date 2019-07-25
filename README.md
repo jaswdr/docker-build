@@ -6,12 +6,8 @@
  - [docker-compose](https://docs.docker.com/compose)
  - [dockerize](https://github.com/jwilder/dockerize)
 
-Suggest more tools openning a [issue](https://github.com/jaswdr/dockerbuilder/issues)
+Suggest more tools openning a [issue](https://gitlab.com/pantacor/internal/dockerbuilder/issues)
 
 ### License
 
 See [license](/LICENSE)
-
-### Maintainer
-
-Jonathan A. Schweder <jonathanschweder@gmail.com>
